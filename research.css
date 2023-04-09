@@ -4,11 +4,11 @@ body {
     margin-left: 8%;
     margin-right: 5%;
     margin-top: 5%;
+    font-family: 'Poppins', sans-serif;
 }
 
 .heading {
     text-align: center;
-    font-family: 'Poppins', sans-serif;
     font-weight: 600;
     font-size: 50px;
     letter-spacing: -0.03em;
@@ -20,9 +20,8 @@ body {
 .abstract {
     background-color: #3c3c3c;
     width: 28%;
-    font-family: 'Poppins', sans-serif;
     font-weight: 400;
-    color: rgb(145, 145, 145);
+    color: #adadad;
     float:left;
     border-radius: 12px;
     padding: 10px;
@@ -31,7 +30,6 @@ body {
 }
 
 h2 {
-    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     color: rgb(205, 204, 204);
 }
@@ -41,7 +39,6 @@ h2 {
     padding-left: 3%;
     background-color: #3c3c3c;
     width: 65%;
-    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     color: rgb(145, 145, 145);
     border-radius: 12px;
@@ -51,7 +48,6 @@ h2 {
 .updates {
     background-color: #3c3c3c;
     width: 30%;
-    font-family: 'Poppins', sans-serif;
     font-weight: 400;
     color: rgb(145, 145, 145);
     float:right;
