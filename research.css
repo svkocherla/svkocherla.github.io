@@ -13,15 +13,29 @@ body {
     font-size: 50px;
     letter-spacing: -0.03em;
     margin-top: 50px;
-    color: rgb(228, 228, 228);
+    /* color: rgb(228, 228, 228); */
+    /* color: #136c93; */
     margin-bottom: 3%;
+
+    background-image: linear-gradient(45deg, #0046a7, #7cb0ff);
+
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
 }
 
 .abstract {
-    background-color: #3c3c3c;
+    /* background-color: #3c3c3c; */
+    /* color: #adadad; */
+    background-color: #0046a7;
+    color: aliceblue;
+
     width: 28%;
     font-weight: 400;
-    color: #adadad;
     float:left;
     border-radius: 12px;
     padding: 10px;
@@ -31,25 +45,33 @@ body {
 
 h2 {
     font-weight: 400;
-    color: rgb(205, 204, 204);
+    /* color: rgb(205, 204, 204); */
+    color: aliceblue;
 }
 
 
 .research {
     padding-left: 3%;
-    background-color: #3c3c3c;
+
+    /* background-color: #3c3c3c; */
+    /* color: rgb(145, 145, 145); */
+    background-color: #0046a7;
+    color: aliceblue;
+
     width: 65%;
     font-weight: 400;
-    color: rgb(145, 145, 145);
     border-radius: 12px;
     float: left;
 }
 
 .updates {
-    background-color: #3c3c3c;
+    /* background-color: #3c3c3c; */
+    /* color: rgb(145, 145, 145); */
+    background-color: #0046a7;
+    color: aliceblue;
+
     width: 30%;
     font-weight: 400;
-    color: rgb(145, 145, 145);
     float:right;
     border-radius: 12px;
 }
