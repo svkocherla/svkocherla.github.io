@@ -80,3 +80,31 @@ h2 {
     float: right;
     width: 69%;
 }
+
+.date {
+    font-size: 14px;
+    padding-left: 15px;
+    font-style: italic;
+}
+.update {
+    font-size: 14px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 15px;
+}
+
+.row {
+    font-size: 18px;
+}
+.description {
+    font-size: 14px;
+    margin-top: 15px;
+    padding-left: 7px;
+    margin-bottom: 10px;
+}
+
+.citation {
+    font-size: 13px;
+    margin-bottom: 30px;
+    padding-left: 4px;
+}
